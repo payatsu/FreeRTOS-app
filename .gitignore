@@ -1,0 +1,8 @@
+*.swp
+*.xsa
+/.analytics
+/.metadata/
+/IDE.log
+/app/
+/platform/
+/system/
